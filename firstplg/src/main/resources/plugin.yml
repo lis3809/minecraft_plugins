@@ -1,0 +1,15 @@
+name: myfirstplug
+version: '${project.version}'
+main: stels.first.First
+author: stels
+commands:
+  sendRAZN:
+    description: aaaa
+  sendSUMM:
+    description: ddd
+  razn:
+    description: get raznost
+  summ:
+    description: summiruem
+  sendMessage:
+    description: descript of my command
